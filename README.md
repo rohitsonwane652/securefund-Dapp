@@ -1,6 +1,5 @@
-Opencrowd : Crowdfunding Platform Powered by Ethereum Blockchain
+Securefund : Crowdfunding Platform Powered by Ethereum Blockchain
 
-The Platform is live on Goerli Test Network and available to use at : [opencrowd.vercel.app](https://opencrowd.vercel.app/)
 
 ## Problem Statement and Necessity
 
